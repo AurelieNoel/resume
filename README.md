@@ -19,10 +19,10 @@ Refer to my [LinkedIn](https://www.linkedin.com/in/aunoel/) or my [online CV](ht
 + Interdisciplinary project management
 
 ## Main skills
-+ Spatial data infrastructure and analysis | R, Python, postgre 
-+ Traditional and interactive data visualisation | shinyapps, leaflet, html+Pages - check this [interactive map](https://noviaspatialcompetencecentre.shinyapps.io/RDI_cities/) or this [interactive cloud](https://noviaspatialcompetencecentre.shinyapps.io/GeoIct4e/)
-+ Image processing | SNAP, ENVI
-+ Drone pilot | WebODM, MapsmadeEasy - check this [example](https://www.mapsmadeeasy.com/maps/detail/c59af657ce1848c48d3dc12ca42abfce/)
++ Spatial data infrastructure and analysis - R, Python, postgre 
++ Traditional and interactive data visualisation - shinyapps, leaflet, html+Pages - check this [interactive map](https://noviaspatialcompetencecentre.shinyapps.io/RDI_cities/) or this [interactive cloud](https://noviaspatialcompetencecentre.shinyapps.io/GeoIct4e/)
++ Image processing - SNAP, ENVI
++ Drone pilot - WebODM, MapsmadeEasy - check this [example](https://www.mapsmadeeasy.com/maps/detail/c59af657ce1848c48d3dc12ca42abfce/)
 + General public communication - check this [video](https://vimeo.com/1027204321?fl=pl&fe=vl) or this [event](https://novia-scc.github.io/GeoDayRaseborg2025/)
 + Team leadership and mentoring - check this recent [BSc work](https://storymaps.arcgis.com/stories/f7ee75353fe443569896929a27d4c8da)
 + Multilingual: EN, FR, IT, SW, FI (-ish)
