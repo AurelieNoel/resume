@@ -13,9 +13,9 @@ Refer to my [LinkedIn](https://www.linkedin.com/in/aunoel/) or my [online CV](ht
 
 ## Expertise
 + Spatial data science
-+ Optical and radar remote sensing (see [Msc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_PostMSC_2008.pdf) - abstract in English - feeding recent [work](https://www.researchgate.net/publication/307665020_Recent_land_subsidence_caused_by_the_rapid_urban_development_in_the_Hanoi_region_Vietnam_using_ALOS_InSAR_data))
++ Optical and radar remote sensing - see [Msc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_PostMSC_2008.pdf) - abstract in English - feeding recent [work](https://www.researchgate.net/publication/307665020_Recent_land_subsidence_caused_by_the_rapid_urban_development_in_the_Hanoi_region_Vietnam_using_ALOS_InSAR_data)
 + Machine learning + experience with supercomputer LUMI
-+ Predictive modelling (see [MSc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_Thesis_2022.pdf) or [quick maps overview](https://raw.githubusercontent.com/AurelieNoel/resume/main/Beluga_habitat_modelling.pdf))
++ Predictive modelling - see [MSc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_Thesis_2022.pdf) or [quick maps overview](https://raw.githubusercontent.com/AurelieNoel/resume/main/Beluga_habitat_modelling.pdf)
 + Interdisciplinary project management
 
 ## Main skills
