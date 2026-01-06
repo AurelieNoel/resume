@@ -32,7 +32,7 @@ Refer to my [LinkedIn](https://www.linkedin.com/in/aunoel/) or my [online CV](ht
 Project portfolio overview: 
 + [Case Västerby - sustainable forestry](https://arcg.is/1vDnK11)
 + [CNE2.0 - sustainable tourism](https://arcg.is/1Prr193)
-+ [NylAF - Agroforestry design](https://arcg.is/0OjGve0)
++ [NylAF - agroforestry design](https://arcg.is/0OjGve0)
 + [Red-Throated divers - habitat modelling](https://raw.githubusercontent.com/AurelieNoel/resume/main/red-throated_divers_modelling.pdf)<br />
 
 **Since Jan 2023** - Sole owner at Terrae Geomatics Environmental Services (Finland)<br />
