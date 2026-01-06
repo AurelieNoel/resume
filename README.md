@@ -19,6 +19,7 @@ Refer to my [LinkedIn](https://www.linkedin.com/in/aunoel/) or my [online CV](ht
 + Interdisciplinary project management
 
 ## Main skills
++ Geographic Information Systems - ESRI, QGIS
 + Spatial data infrastructure and analysis - R, Python, postgre 
 + Traditional and interactive data visualisation - shinyapps, leaflet, html+Pages - check this [interactive map](https://noviaspatialcompetencecentre.shinyapps.io/RDI_cities/) or this [interactive cloud](https://noviaspatialcompetencecentre.shinyapps.io/GeoIct4e/)
 + Image processing - SNAP, ENVI
